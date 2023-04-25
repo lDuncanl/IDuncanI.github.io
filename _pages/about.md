@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Estudiante de ingenieria en computaciòn de octavo semestre.
+subtitle: Estudiante de ingenieria en computaciòn de octavo semestre, amante de la materia de redes.
 
 profile:
   align: right
