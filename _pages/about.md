@@ -22,4 +22,4 @@ Mis pasatiempos favoritos son jugar Basquetbol, ver películas y jugar videojueg
 
 Puedes seguirme en GitHub solo ve al siguente enlace: [lDuncanl](https://github.com/lDuncanl)
 
-O bien tambien puedes seguirme en Facebook: [Axel Rodriguez Romero](https://www.facebook.com/axel.rodrigezromero/)
+O bien tambien puedes encontrarme en Facebook: [Axel Rodriguez Romero](https://www.facebook.com/axel.rodrigezromero?mibextid=ZbWKwL)
