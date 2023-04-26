@@ -19,3 +19,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 Estudiante del Centro Universitario UAEM Valle de México, amante de las materias de Redes y Telecomunicaciones.
 Mis pasatiempos favoritos son jugar Basquetbol, ver películas y jugar videojuegos. 
+Puedes seguirme en GitHub solo ve al siguente enlace: https://github.com/lDuncanl
+O bien tambien puedes seguirme en Facebook: https://www.facebook.com/axel.rodrigezromero/
