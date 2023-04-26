@@ -21,4 +21,5 @@ Estudiante del Centro Universitario UAEM Valle de México, amante de las materia
 Mis pasatiempos favoritos son jugar Basquetbol, ver películas y jugar videojuegos. 
 
 Puedes seguirme en GitHub solo ve al siguente enlace: [lDunanl](https://github.com/lDuncanl)
-O bien tambien puedes seguirme en Facebook: [Facebook](https://www.facebook.com/axel.rodrigezromero/)
+
+O bien tambien puedes seguirme en Facebook: [Axel Rodriguez Romero](https://www.facebook.com/axel.rodrigezromero/)
