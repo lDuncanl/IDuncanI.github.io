@@ -8,9 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Número de Contacto: 5549480483</p>
-    <p>Municipio: Atizapàn de Zaragoza</p>
-    <p>Centro de Estudio: UAEM Valle de Mexico</p>
+      <p>Número de Contacto: 5549480483</p>
+      <p>Municipio: Atizapàn de Zaragoza</p>
+      <p>Centro de Estudio: UAEM Valle de Mexico</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -21,5 +21,7 @@ Estudiante del Centro Universitario UAEM Valle de México, amante de las materia
 Mis pasatiempos favoritos son jugar Basquetbol, ver películas y jugar videojuegos. 
 
 ¿A donde quiero llegar acabando mis estudios? Me encantaria trabajar en Cisco, ¿Qué no sabes que funciones aporta Cisco? No te preocupes te ilustro llevandote a su página web: [Cisco Networking](https://www.netacad.com/es)
-<p>Puedes seguirme en GitHub solo ve al siguente enlace: [lDuncanl](https://github.com/lDuncanl)</p>
-<p>O bien tambien puedes encontrarme en Facebook: [Axel Rodriguez Romero](https://www.facebook.com/axel.rodrigezromero?mibextid=ZbWKwL)</p>
+
+Puedes seguirme en GitHub solo ve al siguente enlace: [lDuncanl](https://github.com/lDuncanl)
+
+O bien tambien puedes encontrarme en Facebook: [Axel Rodriguez Romero](https://www.facebook.com/axel.rodrigezromero?mibextid=ZbWKwL)
